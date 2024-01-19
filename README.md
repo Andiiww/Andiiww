@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Angular, PHP in Laravel, Nuxt and Tailwind
 - 💞️ I’m looking to collaborate on an Application Development Project
 - 📫 How to reach me: on My Instagram @andiiiwijaya.s
-- 😄 Pronouns: Jangkrik bos ...
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: One Piece 😎
 
 <!---
